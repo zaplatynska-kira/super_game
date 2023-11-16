@@ -1,1 +1,4 @@
-# super_game
+# SuPeR GaMe =)
+
+- Yurii Voronyi
+- Paul Taach
